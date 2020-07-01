@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>52D563A48.jpeg</filename>
+  <object>
+    <name>Date</name>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>734</ymin>
+      <xmax>331</xmax>
+      <ymax>774</ymax>
+    </bndbox>
+    <ocr_text>28-FBY-17</ocr_text>
+    <score>0.9999975</score>
+  </object>
+  <object>
+    <name>company_name</name>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>864</ymin>
+      <xmax>262</xmax>
+      <ymax>904</ymax>
+    </bndbox>
+    <ocr_text>WOKING</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Amount</name>
+    <bndbox>
+      <xmin>932</xmin>
+      <ymin>614</ymin>
+      <xmax>1077</xmax>
+      <ymax>686</ymax>
+    </bndbox>
+    <ocr_text>97.50</ocr_text>
+    <score>1</score>
+  </object>
+</annotation>

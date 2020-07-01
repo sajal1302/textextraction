@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>52D563A42.jpeg</filename>
+  <object>
+    <name>company_name</name>
+    <bndbox>
+      <xmin>492</xmin>
+      <ymin>193</ymin>
+      <xmax>674</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+    <ocr_text>Rack &amp; Tenter</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Date</name>
+    <bndbox>
+      <xmin>303</xmin>
+      <ymin>390</ymin>
+      <xmax>430</xmax>
+      <ymax>417</ymax>
+    </bndbox>
+    <ocr_text>27FEB2020</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Amount</name>
+    <bndbox>
+      <xmin>788</xmin>
+      <ymin>1121</ymin>
+      <xmax>872</xmax>
+      <ymax>1196</ymax>
+    </bndbox>
+    <ocr_text>144.95</ocr_text>
+    <score>0.98659515</score>
+  </object>
+</annotation>

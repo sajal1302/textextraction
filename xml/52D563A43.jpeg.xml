@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>52D563A43.jpeg</filename>
+  <object>
+    <name>company_name</name>
+    <bndbox>
+      <xmin>506</xmin>
+      <ymin>171</ymin>
+      <xmax>763</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+    <ocr_text>WAITROSE &amp;
+PARTNERS</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Amount</name>
+    <bndbox>
+      <xmin>811</xmin>
+      <ymin>443</ymin>
+      <xmax>871</xmax>
+      <ymax>458</ymax>
+    </bndbox>
+    <ocr_text>12.00</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Date</name>
+    <bndbox>
+      <xmin>454</xmin>
+      <ymin>729</ymin>
+      <xmax>571</xmax>
+      <ymax>747</ymax>
+    </bndbox>
+    <ocr_text>11/01/2020</ocr_text>
+    <score>0.9999999</score>
+  </object>
+</annotation>

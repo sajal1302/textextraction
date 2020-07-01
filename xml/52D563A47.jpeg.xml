@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>52D563A47.jpeg</filename>
+  <object>
+    <name>Amount</name>
+    <bndbox>
+      <xmin>985</xmin>
+      <ymin>623</ymin>
+      <xmax>1178</xmax>
+      <ymax>693</ymax>
+    </bndbox>
+    <ocr_text>13.40</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Date</name>
+    <bndbox>
+      <xmin>460</xmin>
+      <ymin>734</ymin>
+      <xmax>751</xmax>
+      <ymax>813</ymax>
+    </bndbox>
+    <ocr_text> 09-JLY-18</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>company_name</name>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>737</ymin>
+      <xmax>340</xmax>
+      <ymax>807</ymax>
+    </bndbox>
+    <ocr_text>WOKING</ocr_text>
+    <score>1</score>
+  </object>
+</annotation>

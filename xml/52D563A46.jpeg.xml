@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>52D563A46.jpeg</filename>
+  <object>
+    <name>company_name</name>
+    <bndbox>
+      <xmin>480</xmin>
+      <ymin>610</ymin>
+      <xmax>671</xmax>
+      <ymax>630</ymax>
+    </bndbox>
+    <ocr_text>McDonald's Restaurant</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Date</name>
+    <bndbox>
+      <xmin>619</xmin>
+      <ymin>738</ymin>
+      <xmax>709</xmax>
+      <ymax>756</ymax>
+    </bndbox>
+    <ocr_text>08/12/2018</ocr_text>
+    <score>1</score>
+  </object>
+  <object>
+    <name>Amount</name>
+    <bndbox>
+      <xmin>748</xmin>
+      <ymin>1203</ymin>
+      <xmax>791</xmax>
+      <ymax>1219</ymax>
+    </bndbox>
+    <ocr_text>22.44</ocr_text>
+    <score>0.9998822</score>
+  </object>
+</annotation>
